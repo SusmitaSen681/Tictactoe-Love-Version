@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tictactoe(Love version)</string>
+    <string name="top">Welcome</string>
+    <string name="middle">To</string>
+    <string name="bottom">Tic-Tac-Toe</string>
+    <string name="header">Tic-Tac-Toe</string>
+    <string name="command">Hi</string>
+    <string name="button">Restart</string>
+    <string name="player">Player1</string>
+    <string name="players">Player2</string>
+    <string name="playing">Enter Your Name</string>
+    <string name="playings">Enter Your Name</string>
+    <string name="he">Tic-Tac-Toe Valentine Edition</string>
+    <string name="end">Let\'s Play with your Valentine!!!!</string>
+    <string name="endin">Let\'s play with your Valentine!!</string>
+</resources>
